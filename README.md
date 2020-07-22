@@ -1,4 +1,4 @@
-![Industrial Engineer and Web Developer](./public/Banners-1.png)
+![Industrial Engineer and Web Developer](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/Banners-1.png)
 
 # I'm Wonder Diaz.
 
@@ -16,4 +16,4 @@ A Industrial Engineer with experience in web development. Specialized in differe
 
 ### Follow Me
 
-[![Behance](./public/behance.png)](https://behance.net/MetalSyntax) [![LinkedIn](./public/linkedin.png)](https://linkedin.com/in/metalsyntax/) [![Twitter](./public/twitter.png)](https://twitter.com/MetalSyntax)
+[![Behance](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/behance.png)](https://behance.net/MetalSyntax) [![LinkedIn](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/linkedin.png)](https://linkedin.com/in/metalsyntax/) [![Twitter](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/twitter.png)](https://twitter.com/MetalSyntax)
