@@ -5,7 +5,7 @@
 
 ## Follow Me
 
-[![Behance](./public/behance.png)](https://behance.net/MetalSyntax) [![LinkedIn](./public/linkedIn.png)](https://linkedin.com/in/metalsyntax/) [![Twitter](./public/twitter.png)](https://twitter.com/MetalSyntax)
+[![Behance](./public/behance.png)](https://behance.net/MetalSyntax) [![LinkedIn](./public/linkedin.png)](https://linkedin.com/in/metalsyntax/) [![Twitter](./public/twitter.png)](https://twitter.com/MetalSyntax)
 
 ## Portfolio
 
