@@ -9,7 +9,7 @@ Hi, I'm Wonder Diaz. A Industrial Engineer with experience in web development. S
 ### Recent Projects
 
 - [Syntax Shortcode](https://github.com/MetalSyntax/syntax-shortcode)
-- [Syntax-Python-React-Project](https://github.com/MetalSyntax/Syntax-Python-React-Project)
+- [Syntax Python React Project](https://github.com/MetalSyntax/Syntax-Python-React-Project)
 - [Syntax Project Next](https://github.com/MetalSyntax/Syntax-Project-Next)
 
 ### Follow Me
