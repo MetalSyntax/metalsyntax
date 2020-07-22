@@ -16,4 +16,4 @@ Hi, I'm Wonder Diaz. I'm a Industrial Engineer with experience in web design and
 
 [![Behance](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/behance.png)](https://behance.net/MetalSyntax) [![LinkedIn](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/linkedin.png)](https://linkedin.com/in/metalsyntax/) [![Twitter](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/twitter.png)](https://twitter.com/MetalSyntax)
 
-> Der Weg Einer Freiheit und Solve Et Coagula
+> Der Weg Einer Freiheit und Solve Et Coagula.
