@@ -9,15 +9,18 @@ Here are some of my recent projects:
 ### - [Metalsyntax](https://metalsyntax.now.sh)
 This is my personal website, check it out and learn more about my work!
 
-## Recent Projects
-- [Syntax Shortcode](https://github.com/MetalSyntax/syntax-shortcode): A shortcode library for WordPress.
-- [Syntax Python React Project](https://github.com/MetalSyntax/Syntax-Python-React-Project): A web application made with Python, React and Firebase.
-- [Syntax Project Next](https://github.com/MetalSyntax/Syntax-Project-Next): A project made with Next.js, React and Firebase.
+## Some Projects in GitHub
+- [Syntax Shortcode Plugin](https://github.com/MetalSyntax/syntax-shortcode): Plugin of shortcodes library for WordPress.
+- [Syntax Python React Project](https://github.com/MetalSyntax/Syntax-Python-React-Project): Web application made with Flask, React and MongoDB.
+- [Syntax Project Next](https://github.com/MetalSyntax/Syntax-Project-Next): A project made with Next.js, React and Tailwind.
+-  [React Native CoinGecko](https://github.com/MetalSyntax/react-native-coingecko): Mobile app developed in React Native to show the cryptocurrencies.
+-  [Image Credits Nofollow Plugin](https://github.com/MetalSyntax/Image-Credits-Nofollow-Plugin): WordPress plugin to add credits to the media uploads.
+
 
 ## Skills
-- Programming languages: Python, JavaScript, PHP
-- Frameworks and libraries: React/Next, Vue/Nuxt, Flask, WordPress, Cordova
-- Databases: MySQL, MongoDB, PostgreSQL
+- Programming languages: Python, JavaScript, PHP.
+- Frameworks and libraries: React/Next, Vue/Nuxt, Flask, WordPress, Cordova/Ionic, Tailwind.
+- Databases: MySQL, MongoDB, PostgreSQL.
 
 ## Follow Me and Contact
 Connect with me on the following social networks:<br>
