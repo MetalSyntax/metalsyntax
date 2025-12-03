@@ -110,8 +110,7 @@ Here are some of my recent projects presented as cards:
 📈 GitHub Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=metalSyntax&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metalSyntax&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+<img src="https://gh-readme-profile.vercel.app/api?username=MetalSyntax&theme=dark" height="180" alt="stats graph"  />
 </div>
 
 🤝 Follow Me and Contact
