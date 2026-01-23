@@ -1,4 +1,3 @@
-
 Hi there, I'm Wonder Diaz! 👋
 
 ![Industrial Engineer and Web Developer Banner](https://raw.githubusercontent.com/metalsyntax/metalsyntax/master/public/Banners-2.png)
@@ -59,50 +58,50 @@ Here are some of my recent projects presented as cards:
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/syntax-shortcode">
-<h3>🔌 Syntax Shortcode Plugin</h3>
+<a href="https://github.com/MetalSyntax/PARITY">
+<h3>💰 PARITY</h3>
 </a>
-<p>Plugin of shortcodes library for WordPress.</p>
-<img src="https://img.shields.io/badge/WordPress-Plugin-blue" />
+<p>An application designed to help you manage your personal finances in a simple, secure, and efficient way.</p>
+<img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/Syntax-Python-React-Project">
-<h3>🐍 Syntax Python React</h3>
+<a href="https://github.com/MetalSyntax/Intervit-App-V2.0">
+<h3>📊 Intervit-App-V2.0</h3>
 </a>
-<p>Web application made with Flask, React and MongoDB.</p>
-<img src="https://img.shields.io/badge/Stack-Flask React-green" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/MetalSyntax/Syntax-Project-Next">
-<h3>⚛️ Syntax Project Next</h3>
-</a>
-<p>A project made with Next.js, React and Tailwind.</p>
-<img src="https://img.shields.io/badge/Stack-Next.js-black" />
-</td>
-<td width="50%">
-<a href="https://github.com/MetalSyntax/react-native-coingecko">
-<h3>📱 React Native CoinGecko</h3>
-</a>
-<p>Mobile app developed in React Native to show cryptocurrencies.</p>
-<img src="https://img.shields.io/badge/Platform-Mobile-orange" />
+<p>A progressive mobile web application designed to optimize sales management and collection of trade marketing information.</p>
+<img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/Image-Credits-Nofollow-Plugin">
-<h3>📸 Image Credits Nofollow</h3>
+<a href="https://github.com/MetalSyntax/Lior-App-V2.0">
+<h3>🛍️ Lior-App-V2.0</h3>
 </a>
-<p>WordPress plugin to add credits to the media uploads.</p>
-<img src="https://img.shields.io/badge/Tool-WordPress-blue" />
+<p>A progressive web application (PWA) for sales and order management for LIOR COSMETICS company.</p>
+<img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 <td width="50%">
-<a href="https://metalsyntax.vercel.app">
-<h3>🚀 Metalsyntax Portfolio</h3>
+<a href="https://github.com/MetalSyntax/Portfolio-MetalSyntax">
+<h3>🌐 Portfolio-MetalSyntax</h3>
 </a>
-<p>My personal website, check it out and learn more!</p>
-<img src="https://img.shields.io/badge/Status-Live-success" />
+<p>Portfolio developed with Vue + Nuxt and TailwindCSS to showcase my work and skills.</p>
+<img src="https://img.shields.io/badge/Stack-Vue-4FC08D" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/Shooter-Space-Phaser">
+<h3>🚀 Shooter-Space-Phaser</h3>
+</a>
+<p>Classic Space Shooter arcade game built with React, TypeScript, and Phaser 3.</p>
+<img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
+</td>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/Vitreon-Notes">
+<h3>📝 Vitreon-Notes</h3>
+</a>
+<p>A notes app with a 'Deep Glass' design and neural assistance that organizes your thoughts.</p>
+<img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 </tr>
 </table>
@@ -131,4 +130,5 @@ Here are some of my recent projects presented as cards:
 </a>
 
 "Der Weg Einer Freiheit und Solve Et Coagula."
+
 </div>
