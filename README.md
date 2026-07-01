@@ -65,43 +65,55 @@ Here are some of my recent projects presented as cards:
 <img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/Intervit-App-V2.0">
-<h3>📊 Intervit-App-V2.0</h3>
+<a href="https://github.com/MetalSyntax/VITREON">
+<h3>📝 VITREON</h3>
 </a>
-<p>A progressive mobile web application designed to optimize sales management and collection of trade marketing information.</p>
+<p>A notes app with a 'Deep Glass' design and neural assistance that organizes your thoughts as you write.</p>
 <img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/Lior-App-V2.0">
-<h3>🛍️ Lior-App-V2.0</h3>
+<a href="https://github.com/MetalSyntax/FLUX">
+<h3>📖 FLUX</h3>
 </a>
-<p>A progressive web application (PWA) for sales and order management for LIOR COSMETICS company.</p>
+<p>A minimalist and elegant universal book reader with a modern, clean interface</p>
 <img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/Portfolio-MetalSyntax">
-<h3>🌐 Portfolio-MetalSyntax</h3>
+<a href="https://github.com/MetalSyntax/BeBrief-Studio">
+<h3>🎨 BeBrief-Studio</h3>
 </a>
-<p>Portfolio developed with Vue + Nuxt and TailwindCSS to showcase my work and skills.</p>
-<img src="https://img.shields.io/badge/Stack-Vue-4FC08D" />
+<p>Workspace and visual editor designed for designers to structure, customize, and prototype case study briefs for Behance.</p>
+<img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/Shooter-Space-Phaser">
-<h3>🚀 Shooter-Space-Phaser</h3>
+<a href="https://github.com/MetalSyntax/NAVE">
+<h3>🏍️ NAVE</h3>
 </a>
-<p>Classic Space Shooter arcade game built with React, TypeScript, and Phaser 3.</p>
+<p>A high-performance motorcycle diagnostics & maintenance tracker.</p>
 <img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
 </td>
 <td width="50%">
-<a href="https://github.com/MetalSyntax/Vitreon-Notes">
-<h3>📝 Vitreon-Notes</h3>
+<a href="https://github.com/MetalSyntax/CV-Builder">
+<h3>📄 VITAE</h3>
 </a>
-<p>A notes app with a 'Deep Glass' design and neural assistance that organizes your thoughts.</p>
+<p>ATS-optimized resume builder replicating a specific design with color customization and PDF export capabilities.</p>
+<img src="https://img.shields.io/badge/Stack-React%20%2F%20TypeScript-blue" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/Webflow-Auditor">
+<h3>🔍 Webflow-Auditor</h3>
+</a>
+<p>Webflow Extension Auditor SEO Performance A11Y.</p>
 <img src="https://img.shields.io/badge/Stack-TypeScript-blue" />
+</td>
+</tr>
+<tr>
 </td>
 </tr>
 </table>
