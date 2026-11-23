@@ -14,6 +14,10 @@ Specialized in building modern, high-performance web and multiplatform applicati
 <a href="https://metalsyntax.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit My Website-blue?style=for-the-badge&logo=firefox" alt="Portfolio">
 </a>
+&nbsp;
+<a href="https://ko-fi.com/metalsyntax">
+<img src="https://img.shields.io/badge/Ko--fi-Support My Work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi">
+</a>
 
 <br><br>
 
