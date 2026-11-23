@@ -39,6 +39,26 @@ Specialized in building modern, high-performance web and multiplatform applicati
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Android_NDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android NDK" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Assembly_(ARM)-6E4C13?style=for-the-badge&logo=arm&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/iOS_Mach--O-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Mach-O" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Ghidra-D12C2C?style=for-the-badge" alt="Ghidra" />
+</p>
+
+### 📱 Native Android
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=android&logoColor=white" alt="Hilt" />
+  <img src="https://img.shields.io/badge/Room_(SQLite)-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="ML Kit" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
 </p>
 
 ### 🌐 Modern Web & Cross-Platform
@@ -56,6 +76,15 @@ Specialized in building modern, high-performance web and multiplatform applicati
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge" alt="Phaser" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
 </p>
 
 ### 🗄️ Tooling, Databases & Design
@@ -63,9 +92,15 @@ Specialized in building modern, high-performance web and multiplatform applicati
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 </p>
 
 <br>
@@ -136,6 +171,103 @@ Specialized in building modern, high-performance web and multiplatform applicati
 <p>High-performance macOS TUI for low-level disk recovery, sector sweeps, and bad sector reallocation built for drives that hang Disk Utility.</p>
 <img src="https://img.shields.io/badge/Stack-Rust%20%7C%20TUI%20%7C%20Systems-DEA584" alt="Stack" />
 </td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/prince-of-persia-sand-of-time-vita">
+<h3>⏳ Prince of Persia: The Sands of Time</h3>
+</a>
+<p>PS Vita port based on the static recompilation of the original Xbox game.</p>
+<img src="https://img.shields.io/badge/Stack-C%20%7C%20Static%20Recompilation%20%7C%20vitaGL-00599C" alt="Stack" />
+</td>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/ios-loader-boilerplate">
+<h3>🍎 iOS Mach-O Loader Boilerplate</h3>
+</a>
+<p>Loader that runs original iOS ARM binaries on PS Vita, base of my iOS ports (The Sims 3, PES, Inotia, Crash Nitro Kart…).</p>
+<img src="https://img.shields.io/badge/Stack-C%20%7C%20Mach--O%20%7C%20ObjC%20Runtime-00599C" alt="Stack" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/The-Sims-3-iOS-vita">
+<h3>🏠 The Sims 3</h3>
+</a>
+<p>iOS to PS Vita port of EA's The Sims 3 running the original iOS binary through the Mach-O loader.</p>
+<img src="https://img.shields.io/badge/Stack-C%20%7C%20VitaSDK%20%7C%20Mach--O-00599C" alt="Stack" />
+</td>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/vita-j2me-emulator">
+<h3>☕ Vita J2ME Emulator</h3>
+</a>
+<p>Java ME emulator for PS Vita to play classic mobile games natively.</p>
+<img src="https://img.shields.io/badge/Stack-C%20%7C%20VitaSDK%20%7C%20J2ME-00599C" alt="Stack" />
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📱 Native Android Apps (Kotlin)
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/PARITY-android">
+<h3>💰 PARITY for Android</h3>
+</a>
+<p>Native port of PARITY: dual-currency personal finance with Google Drive sync, compatible with the web app.</p>
+<img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Drive%20API-7F52FF" alt="Stack" />
+</td>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/YiSecure-Camera">
+<h3>📹 YiSecure Camera</h3>
+</a>
+<p>Unofficial ad-free app for Yi Home security cameras with live view, local recording and on-device AI detection.</p>
+<img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20NDK%20%7C%20TFLite-7F52FF" alt="Stack" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/Mandix-Multicontrol">
+<h3>📡 Mandix Multicontrol</h3>
+</a>
+<p>Universal IR remote for TVs, air conditioners, speakers and lights, plus Roku & Fire TV over Wi-Fi. Offline, no ads.</p>
+<img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Android%20IR%20%7C%20ADB-7F52FF" alt="Stack" />
+</td>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/Pulsix-Multiwatch">
+<h3>⌚ Pulsix Multiwatch</h3>
+</a>
+<p>Companion app for smartwatches: health, notifications, music, weather, alarms and custom watch faces.</p>
+<img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20BLE%20%7C%20NDK-7F52FF" alt="Stack" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/FLUX-android">
+<h3>📖 FLUX for Android</h3>
+</a>
+<p>Native port of the FLUX ebook reader with offline library and clean reading experience.</p>
+<img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Room%20%7C%20Hilt-7F52FF" alt="Stack" />
+</td>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/NAVE-android">
+<h3>🏍️ NAVE for Android</h3>
+</a>
+<p>Native port of the NAVE motorcycle maintenance and trip log.</p>
+<img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Room%20%7C%20Hilt-7F52FF" alt="Stack" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/MetalSyntax/VITREON-android">
+<h3>📝 VITREON for Android</h3>
+</a>
+<p>Native port of the VITREON notes app with its Deep Glass design.</p>
+<img src="https://img.shields.io/badge/Stack-Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Material%203-7F52FF" alt="Stack" />
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
