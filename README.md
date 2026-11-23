@@ -18,6 +18,10 @@ Specialized in building modern, high-performance web and multiplatform applicati
 <a href="https://ko-fi.com/metalsyntax">
 <img src="https://img.shields.io/badge/Ko--fi-Support My Work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi">
 </a>
+&nbsp;
+<a href="https://paypal.me/MetalSyntax">
+<img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal">
+</a>
 
 <br><br>
 
