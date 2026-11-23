@@ -99,8 +99,13 @@ Specialized in building modern, high-performance web and multiplatform applicati
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Divi-8C3FFF?style=for-the-badge" alt="Divi" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop" />
+  <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge" alt="Magento" />
+  <img src="https://img.shields.io/badge/Glide-18BCF2?style=for-the-badge&logo=glide&logoColor=white" alt="Glide" />
 </p>
 
 <br>
